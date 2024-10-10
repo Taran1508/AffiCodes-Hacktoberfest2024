@@ -3,6 +3,6 @@ function isPalindrome(str) {
     return str === reversedStr;
 }
 
-// Example usage:
+// Example usage
 console.log(isPalindrome("madam")); // true
 console.log(isPalindrome("hello")); // false
